@@ -18,3 +18,4 @@ cat /etc/hosts | while read -r ip nume rest; do
     verifica_ip "$nume" "$ip" "$DNS_EXTERN"
 
 done
+echo "Neacsa Bogdan"
